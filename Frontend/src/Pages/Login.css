@@ -1,0 +1,40 @@
+.c1{
+    border: 5px solid white;
+    background-color: #f9f2f2cc;
+    width: 550px;
+    border-radius: 18px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 7px rgba(187, 182, 182, 0.638);
+    margin-left: 32%;
+}
+
+.k1{
+    color: red;
+}
+
+button{
+    width: 100%;
+    color: black;
+    background-color: rgb(14, 194, 249);
+}
+
+button:hover{
+    background-color: cadetblue;
+}
+
+input{
+    width: 100%;
+}
+
+h2{
+    color: rgb(14, 194, 249);
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+}
